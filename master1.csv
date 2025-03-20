@@ -1,0 +1,11 @@
+file_x,file_y,Decision
+img1.0.jpg,img1.1.jpg,No
+img2.0.jpg,img2.1.png,Yes
+img3.0.jpg,img3.1.png,Yes
+img4.0.webp,img4.1.webp,Yes
+img5.0.webp,img5.1.jpg,No
+img6.0.jpg,img6.1.jpg,Yes
+img7.0.jpg,img7.1.webp,No
+img9.0.webp,img9.1.webp,No
+img10.0.webp,img10.1.png,Yes
+
