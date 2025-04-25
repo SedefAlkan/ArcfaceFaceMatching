@@ -17,7 +17,6 @@ Aşağıdaki bağımlılıkların yüklü olduğundan emin olun:
 ```bash
 pip install pandas matplotlib opencv-python deepface
 ```
-
 ## Veri Seti Formatı
 Veri seti aşağıdaki şekilde düzenlenmelidir:
 - **Veri Seti Klasörü**: Resim dosyalarını içerir.
