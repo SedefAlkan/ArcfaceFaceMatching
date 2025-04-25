@@ -4,6 +4,7 @@
 Bu Python betiği, **DeepFace'in ArcFace Modelini** kullanarak yüz doğrulama işlemi gerçekleştirir. Bir CSV dosyasında listelenen resim çiftlerini karşılaştırır ve sonuçları Matplotlib kullanarak görselleştirir. Karşılaştırma sonuçları arasında benzerlik skoru ve tahmin edilen karar bulunur.
 
 ## Özellikler
+
 - CSV dosyasından resim dosya yollarını okur.
 - **DeepFace** (ArcFace modeli) kullanarak yüz doğrulama yapar.
 - Resim çiftlerini dosya adları olmadan gösterir.
